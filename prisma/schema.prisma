@@ -1,0 +1,49 @@
+// Marble intake product — Prisma schema
+//
+// This is the starting schema. You are encouraged to extend it as the intake
+// product takes shape (add fields, add models, add relations). Use
+// `npm run db:migrate` to generate and apply migrations as you go.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model IntakeSubmission {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+
+  // Deliberately minimal starter fields — restructure & extend as you design
+  // the intake flow (and add whatever models/relations your match needs).
+  firstName String
+  lastName  String
+  email     String
+}
+
+// The therapist roster your match works with. Seeded from data/therapists.json
+// via `npm run db:seed`.
+//
+// NOTE: SQLite has no list columns, so list-ish fields (languages, specialties,
+// modalities, personality, sessionFormats, insurances, availability) are stored
+// as JSON-encoded string arrays, e.g. '["Aetna","BCBS"]'.
+model Therapist {
+  id                   String  @id @default(cuid())
+  name                 String
+  gender               String // "female" | "male" | "nonbinary"
+  ethnicity            String
+  languages            String // JSON array
+  faithBackground      String? // e.g. "Christian", "Jewish" — null if not applicable
+  agesServedMin        Int
+  agesServedMax        Int
+  specialties          String // JSON array, e.g. '["anxiety","OCD"]'
+  modalities           String // JSON array, e.g. '["CBT","play therapy"]'
+  personality          String // JSON array, e.g. '["warm","direct"]'
+  sessionFormats       String // JSON array of "video" | "in_person"
+  insurances           String // JSON array
+  availability         String // JSON array of "weekday_afternoons" | "evenings" | "weekends"
+  acceptingNewPatients Boolean
+  bio                  String
+}

@@ -1,0 +1,1943 @@
+[
+  {
+    "name": "Dr. Maya Chen",
+    "gender": "female",
+    "ethnicity": "Chinese American",
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 12,
+    "agesServedMax": 18,
+    "specialties": [
+      "anxiety",
+      "depression",
+      "academic stress",
+      "perfectionism"
+    ],
+    "modalities": [
+      "CBT"
+    ],
+    "personality": [
+      "warm",
+      "structured"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "Cigna"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Maya works with middle- and high-schoolers who are anxious, down, or buckling under pressure — often all three. Sessions are structured but never cold; teens say she makes hard things feel doable."
+  },
+  {
+    "name": "Jordan Rivera, LCSW",
+    "gender": "nonbinary",
+    "ethnicity": "Puerto Rican",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "LGBTQ+ identity",
+      "depression",
+      "self-esteem",
+      "anxiety"
+    ],
+    "modalities": [
+      "ACT",
+      "affirming therapy"
+    ],
+    "personality": [
+      "warm",
+      "casual"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "United"
+    ],
+    "availability": [
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Jordan creates a low-pressure space for teens figuring out who they are. Especially loved by LGBTQ+ kids and kids who swore they'd never talk to a therapist."
+  },
+  {
+    "name": "Dr. Priya Shah",
+    "gender": "female",
+    "ethnicity": "South Asian",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "faithBackground": "Hindu",
+    "agesServedMin": 10,
+    "agesServedMax": 18,
+    "specialties": [
+      "trauma",
+      "PTSD",
+      "anxiety"
+    ],
+    "modalities": [
+      "EMDR",
+      "somatic therapy"
+    ],
+    "personality": [
+      "calm",
+      "gentle"
+    ],
+    "sessionFormats": [
+      "in_person"
+    ],
+    "insurances": [
+      "BCBS",
+      "Cigna",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Priya specializes in kids and teens who've been through something hard. Trauma-informed, unhurried, and deeply steady. She only sees patients in person — she believes the work requires it."
+  },
+  {
+    "name": "Marcus Thompson, LMFT",
+    "gender": "male",
+    "ethnicity": "Black",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 6,
+    "agesServedMax": 17,
+    "specialties": [
+      "family conflict",
+      "divorce adjustment",
+      "behavioral issues"
+    ],
+    "modalities": [
+      "family therapy",
+      "parent coaching"
+    ],
+    "personality": [
+      "direct",
+      "warm"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "United",
+      "Cigna"
+    ],
+    "availability": [
+      "evenings"
+    ],
+    "acceptingNewPatients": false,
+    "bio": "Marcus works with the whole family system — kids caught in conflict, parents navigating divorce, households in a rough season. Currently at capacity and not taking new patients."
+  },
+  {
+    "name": "Dr. Aisha Banks",
+    "gender": "female",
+    "ethnicity": "Black",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 11,
+    "agesServedMax": 18,
+    "specialties": [
+      "anxiety",
+      "depression",
+      "school stress",
+      "bullying"
+    ],
+    "modalities": [
+      "CBT",
+      "DBT skills"
+    ],
+    "personality": [
+      "energetic",
+      "collaborative"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS"
+    ],
+    "availability": [
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Aisha is evidence-based and upbeat — teens leave sessions with actual tools. She has a soft spot for kids getting a hard time at school and parents who don't know how to help."
+  },
+  {
+    "name": "Ben Goldstein, LPC",
+    "gender": "male",
+    "ethnicity": "White",
+    "languages": [
+      "English",
+      "Hebrew"
+    ],
+    "faithBackground": "Jewish",
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "grief",
+      "depression",
+      "anxiety",
+      "burnout"
+    ],
+    "modalities": [
+      "ACT",
+      "mindfulness"
+    ],
+    "personality": [
+      "calm",
+      "quiet"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "BCBS",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Ben sits with teens through loss, sadness, and exhaustion without rushing them anywhere. Quietly funny. Can incorporate Jewish faith and practice when families want that."
+  },
+  {
+    "name": "Dr. Sofia Alvarez",
+    "gender": "female",
+    "ethnicity": "Mexican American",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "faithBackground": "Catholic",
+    "agesServedMin": 5,
+    "agesServedMax": 12,
+    "specialties": [
+      "anxiety",
+      "selective mutism",
+      "family dynamics",
+      "cultural identity"
+    ],
+    "modalities": [
+      "play therapy",
+      "CBT"
+    ],
+    "personality": [
+      "playful",
+      "warm"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "United",
+      "Cigna"
+    ],
+    "availability": [
+      "weekday_afternoons"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Sofia works with younger kids through play — puppets, drawing, games — and coaches parents alongside. Bilingual and bicultural; many of her families are Spanish-speaking at home."
+  },
+  {
+    "name": "Tasha Williams, LMSW",
+    "gender": "female",
+    "ethnicity": "Black",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 12,
+    "agesServedMax": 18,
+    "specialties": [
+      "eating disorders",
+      "body image",
+      "anxiety"
+    ],
+    "modalities": [
+      "CBT-E",
+      "HAES-informed"
+    ],
+    "personality": [
+      "warm",
+      "direct"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "BCBS",
+      "Cigna"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Tasha is an eating-disorder and body-image specialist. Warm but doesn't dance around things — teens trust her because she's honest with them."
+  },
+  {
+    "name": "Dr. Liam O'Connor",
+    "gender": "male",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 10,
+    "agesServedMax": 18,
+    "specialties": [
+      "ADHD",
+      "executive functioning",
+      "performance anxiety"
+    ],
+    "modalities": [
+      "behavioral coaching",
+      "CBT"
+    ],
+    "personality": [
+      "energetic",
+      "structured"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "United",
+      "Kaiser"
+    ],
+    "availability": [
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": false,
+    "bio": "Liam is a favorite of student-athletes and kids with ADHD — sessions feel more like training than therapy. Currently full with a waitlist."
+  },
+  {
+    "name": "Nina Park, LPCC",
+    "gender": "female",
+    "ethnicity": "Korean American",
+    "languages": [
+      "English",
+      "Korean"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 12,
+    "agesServedMax": 18,
+    "specialties": [
+      "family pressure",
+      "identity",
+      "depression",
+      "perfectionism"
+    ],
+    "modalities": [
+      "CBT",
+      "narrative therapy"
+    ],
+    "personality": [
+      "gentle",
+      "thoughtful"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "United"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Nina works with first- and second-generation teens navigating family expectations and figuring out who they are. Gentle, unhurried, quietly incisive."
+  },
+  {
+    "name": "Dr. Rachel Moreno",
+    "gender": "female",
+    "ethnicity": "Latina",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "OCD",
+      "anxiety disorders",
+      "panic"
+    ],
+    "modalities": [
+      "ERP",
+      "CBT"
+    ],
+    "personality": [
+      "direct",
+      "structured"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna"
+    ],
+    "availability": [
+      "weekday_afternoons"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Rachel is ERP-trained and all business in the best way — kids with OCD make real progress with her, and parents get clear homework too."
+  },
+  {
+    "name": "Devon Carter, LMHC",
+    "gender": "male",
+    "ethnicity": "Black",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 5,
+    "agesServedMax": 12,
+    "specialties": [
+      "ADHD",
+      "behavioral issues",
+      "anger",
+      "bullying"
+    ],
+    "modalities": [
+      "play therapy",
+      "parent coaching"
+    ],
+    "personality": [
+      "playful",
+      "high-energy"
+    ],
+    "sessionFormats": [
+      "in_person"
+    ],
+    "insurances": [
+      "BCBS",
+      "United",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Devon meets younger kids at their energy level — a lot of his sessions happen on the floor. Great with kids who've been labeled 'a handful' and parents at the end of their rope."
+  },
+  {
+    "name": "Dr. Hannah Klein",
+    "gender": "female",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 4,
+    "agesServedMax": 10,
+    "specialties": [
+      "autism spectrum",
+      "social skills",
+      "anxiety"
+    ],
+    "modalities": [
+      "play therapy",
+      "structured behavioral"
+    ],
+    "personality": [
+      "patient",
+      "gentle"
+    ],
+    "sessionFormats": [
+      "in_person"
+    ],
+    "insurances": [
+      "Cigna",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Hannah works with young neurodivergent kids, including many on the autism spectrum. Predictable, patient, and deeply attuned — kids who struggle with new people tend to warm to her."
+  },
+  {
+    "name": "Grace Okafor, LCSW",
+    "gender": "female",
+    "ethnicity": "Nigerian American",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": "Christian",
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "depression",
+      "self-harm",
+      "self-esteem"
+    ],
+    "modalities": [
+      "DBT",
+      "faith-informed therapy"
+    ],
+    "personality": [
+      "warm",
+      "steady"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "Cigna",
+      "United"
+    ],
+    "availability": [
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Grace is DBT-trained and works with teens in real pain, including those who self-harm. Unshakably steady. Can weave in Christian faith when a family asks for it — and never when they don't."
+  },
+  {
+    "name": "Dr. Emily Hart",
+    "gender": "female",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 5,
+    "agesServedMax": 12,
+    "specialties": [
+      "anxiety",
+      "separation anxiety",
+      "sleep issues"
+    ],
+    "modalities": [
+      "CBT",
+      "play therapy"
+    ],
+    "personality": [
+      "warm",
+      "patient"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "United"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Emily helps worried little kids (and their worried parents) find their footing — clingy drop-offs, bedtime battles, big fears. Parents leave with a plan."
+  },
+  {
+    "name": "Carlos Mendez, LMFT",
+    "gender": "male",
+    "ethnicity": "Mexican American",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "faithBackground": "Catholic",
+    "agesServedMin": 6,
+    "agesServedMax": 17,
+    "specialties": [
+      "family conflict",
+      "behavioral issues",
+      "anxiety"
+    ],
+    "modalities": [
+      "family therapy",
+      "CBT"
+    ],
+    "personality": [
+      "warm",
+      "direct"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "BCBS",
+      "Cigna",
+      "Kaiser"
+    ],
+    "availability": [
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Carlos works with kids and their families together — he says the kid is rarely the whole story. Bilingual sessions available; abuelas welcome."
+  },
+  {
+    "name": "Dr. Rebecca Stone",
+    "gender": "female",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": "Jewish",
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "OCD",
+      "anxiety disorders",
+      "perfectionism"
+    ],
+    "modalities": [
+      "ERP",
+      "CBT"
+    ],
+    "personality": [
+      "structured",
+      "warm"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "BCBS",
+      "Cigna",
+      "United"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Rebecca runs tight, exposure-based treatment for OCD and anxiety with a surprising amount of laughter in it. Teens describe her as 'tough but on my side.'"
+  },
+  {
+    "name": "Amir Hassan, LPC",
+    "gender": "male",
+    "ethnicity": "Egyptian American",
+    "languages": [
+      "English",
+      "Arabic"
+    ],
+    "faithBackground": "Muslim",
+    "agesServedMin": 12,
+    "agesServedMax": 18,
+    "specialties": [
+      "depression",
+      "anxiety",
+      "cultural identity"
+    ],
+    "modalities": [
+      "CBT",
+      "narrative therapy"
+    ],
+    "personality": [
+      "calm",
+      "thoughtful"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "Cigna",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Amir works with teens straddling cultures and expectations. Comfortable integrating Muslim faith and family values into care when that's what a family wants."
+  },
+  {
+    "name": "Dr. Jasmine Lee",
+    "gender": "female",
+    "ethnicity": "Chinese American",
+    "languages": [
+      "English",
+      "Cantonese"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 4,
+    "agesServedMax": 11,
+    "specialties": [
+      "autism spectrum",
+      "social skills",
+      "developmental delays"
+    ],
+    "modalities": [
+      "play therapy",
+      "structured behavioral"
+    ],
+    "personality": [
+      "gentle",
+      "patient"
+    ],
+    "sessionFormats": [
+      "in_person",
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Jasmine supports young neurodivergent kids and their parents with equal care. Sessions are predictable, visual, and paced to the kid — never the clock."
+  },
+  {
+    "name": "Tyler Brooks, LMHC",
+    "gender": "male",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "substance use",
+      "risk-taking",
+      "anger"
+    ],
+    "modalities": [
+      "motivational interviewing",
+      "DBT skills"
+    ],
+    "personality": [
+      "casual",
+      "direct"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "United",
+      "Kaiser",
+      "BCBS"
+    ],
+    "availability": [
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Tyler works with teens testing every limit — vaping, drinking, blowing up at home. Zero lectures. Kids who hate being 'therapized' tend to keep showing up for Tyler."
+  },
+  {
+    "name": "Dr. Angela Foster",
+    "gender": "female",
+    "ethnicity": "Black",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": "Christian",
+    "agesServedMin": 10,
+    "agesServedMax": 18,
+    "specialties": [
+      "trauma",
+      "PTSD",
+      "grief"
+    ],
+    "modalities": [
+      "TF-CBT",
+      "EMDR"
+    ],
+    "personality": [
+      "steady",
+      "warm"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "United",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Angela does deep trauma work with kids and teens at whatever pace they need. Families often say she's the first person their kid ever really opened up to."
+  },
+  {
+    "name": "Megan O'Brien, LCSW",
+    "gender": "female",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 5,
+    "agesServedMax": 12,
+    "specialties": [
+      "ADHD",
+      "behavioral issues",
+      "school readiness"
+    ],
+    "modalities": [
+      "parent coaching",
+      "behavioral therapy"
+    ],
+    "personality": [
+      "energetic",
+      "structured"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "Cigna",
+      "United"
+    ],
+    "availability": [
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Megan spends as much time coaching parents as she does with kids — routines, rewards, mornings that don't end in tears. Practical to her core."
+  },
+  {
+    "name": "Dr. Noor Rahman",
+    "gender": "female",
+    "ethnicity": "Pakistani American",
+    "languages": [
+      "English",
+      "Urdu"
+    ],
+    "faithBackground": "Muslim",
+    "agesServedMin": 12,
+    "agesServedMax": 18,
+    "specialties": [
+      "anxiety",
+      "OCD",
+      "family pressure"
+    ],
+    "modalities": [
+      "CBT",
+      "ERP"
+    ],
+    "personality": [
+      "gentle",
+      "structured"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "BCBS",
+      "United"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Noor treats anxiety and OCD in teens with warmth and rigor, and understands the weight of high family expectations firsthand. Faith-aware care available on request."
+  },
+  {
+    "name": "Sam Delgado, LPCC",
+    "gender": "nonbinary",
+    "ethnicity": "Colombian American",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "LGBTQ+ identity",
+      "anxiety",
+      "self-esteem"
+    ],
+    "modalities": [
+      "affirming therapy",
+      "ACT"
+    ],
+    "personality": [
+      "playful",
+      "warm"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "BCBS",
+      "Cigna",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Sam's office feels more like a hangout than a clinic. Queer and trans teens especially find their people here — and parents get gentle, judgment-free guidance too."
+  },
+  {
+    "name": "Dr. Peter Novak",
+    "gender": "male",
+    "ethnicity": "White",
+    "languages": [
+      "English",
+      "Russian"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 12,
+    "agesServedMax": 18,
+    "specialties": [
+      "depression",
+      "ADHD",
+      "executive functioning"
+    ],
+    "modalities": [
+      "CBT",
+      "behavioral coaching"
+    ],
+    "personality": [
+      "structured",
+      "calm"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "Cigna"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Peter helps teens whose grades, rooms, and moods are all underwater. Systems-minded and steady — small wins first, momentum after."
+  },
+  {
+    "name": "Alicia Gomez, LMFT",
+    "gender": "female",
+    "ethnicity": "Dominican American",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 4,
+    "agesServedMax": 12,
+    "specialties": [
+      "behavioral issues",
+      "anger",
+      "family dynamics"
+    ],
+    "modalities": [
+      "PCIT",
+      "play therapy"
+    ],
+    "personality": [
+      "high-energy",
+      "warm"
+    ],
+    "sessionFormats": [
+      "in_person",
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "United",
+      "Kaiser"
+    ],
+    "availability": [
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Alicia does hands-on work with little kids who hit, scream, and melt down — and the exhausted parents who love them. Bilingual sessions; big tantrums welcome."
+  },
+  {
+    "name": "Dr. Kenji Tanaka",
+    "gender": "male",
+    "ethnicity": "Japanese American",
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "faithBackground": "Buddhist",
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "anxiety",
+      "perfectionism",
+      "academic stress"
+    ],
+    "modalities": [
+      "mindfulness",
+      "ACT"
+    ],
+    "personality": [
+      "calm",
+      "quiet"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "BCBS",
+      "United",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Kenji works with high-achieving teens running on fumes. Sessions are slow, spacious, and surprisingly restful — kids say it's the one hour a week nobody wants anything from them."
+  },
+  {
+    "name": "Lauren Fitzgerald, LPC",
+    "gender": "female",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": "Christian",
+    "agesServedMin": 5,
+    "agesServedMax": 12,
+    "specialties": [
+      "grief",
+      "divorce adjustment",
+      "anxiety"
+    ],
+    "modalities": [
+      "play therapy",
+      "art therapy"
+    ],
+    "personality": [
+      "gentle",
+      "warm"
+    ],
+    "sessionFormats": [
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "Cigna"
+    ],
+    "availability": [
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Lauren helps young kids make sense of loss and big family changes through play and art. Her office has more paint than most preschools."
+  },
+  {
+    "name": "Dr. Marcus Bell",
+    "gender": "male",
+    "ethnicity": "Black",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 10,
+    "agesServedMax": 18,
+    "specialties": [
+      "ADHD",
+      "anger",
+      "sports performance"
+    ],
+    "modalities": [
+      "behavioral coaching",
+      "CBT"
+    ],
+    "personality": [
+      "energetic",
+      "direct"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "A former college athlete, Marcus connects fast with kids who'd rather be anywhere but therapy. ADHD, short fuses, and locker-room pressure are home turf."
+  },
+  {
+    "name": "Hannah Weiss, LMSW",
+    "gender": "female",
+    "ethnicity": "White",
+    "languages": [
+      "English",
+      "Hebrew"
+    ],
+    "faithBackground": "Jewish",
+    "agesServedMin": 12,
+    "agesServedMax": 18,
+    "specialties": [
+      "eating disorders",
+      "anxiety",
+      "body image"
+    ],
+    "modalities": [
+      "CBT-E",
+      "DBT skills"
+    ],
+    "personality": [
+      "warm",
+      "direct"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "United"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Hannah treats disordered eating in teens with clarity and compassion, and knows how to bring worried parents into the work without making the kid feel surveilled."
+  },
+  {
+    "name": "Dr. Isabela Costa",
+    "gender": "female",
+    "ethnicity": "Brazilian American",
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 6,
+    "agesServedMax": 14,
+    "specialties": [
+      "anxiety",
+      "selective mutism",
+      "school refusal"
+    ],
+    "modalities": [
+      "CBT",
+      "play therapy"
+    ],
+    "personality": [
+      "playful",
+      "patient"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Cigna",
+      "United",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Isabela specializes in kids whose anxiety shows up as silence or refusing school. Trilingual, endlessly patient, and sneaky-good at making brave feel fun."
+  },
+  {
+    "name": "David Kim, LMHC",
+    "gender": "male",
+    "ethnicity": "Korean American",
+    "languages": [
+      "English",
+      "Korean"
+    ],
+    "faithBackground": "Christian",
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "depression",
+      "family pressure",
+      "identity"
+    ],
+    "modalities": [
+      "CBT",
+      "faith-informed therapy"
+    ],
+    "personality": [
+      "thoughtful",
+      "steady"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "United"
+    ],
+    "availability": [
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "David works with teens carrying heavy expectations at home and church. Comfortable integrating Christian faith into care — or leaving it entirely at the door."
+  },
+  {
+    "name": "Dr. Sarah Lindqvist",
+    "gender": "female",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 4,
+    "agesServedMax": 10,
+    "specialties": [
+      "autism spectrum",
+      "anxiety",
+      "sensory issues"
+    ],
+    "modalities": [
+      "play therapy",
+      "parent coaching"
+    ],
+    "personality": [
+      "patient",
+      "calm"
+    ],
+    "sessionFormats": [
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "United"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Sarah's practice is built for young sensory-sensitive kids: dim lights, soft voices, no surprises. Parents get concrete strategies that actually survive contact with real life."
+  },
+  {
+    "name": "Miguel Santos, LCSW",
+    "gender": "male",
+    "ethnicity": "Filipino American",
+    "languages": [
+      "English",
+      "Tagalog"
+    ],
+    "faithBackground": "Catholic",
+    "agesServedMin": 12,
+    "agesServedMax": 18,
+    "specialties": [
+      "depression",
+      "anxiety",
+      "cultural identity"
+    ],
+    "modalities": [
+      "CBT",
+      "narrative therapy"
+    ],
+    "personality": [
+      "warm",
+      "casual"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "BCBS",
+      "Cigna",
+      "Kaiser"
+    ],
+    "availability": [
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Miguel works with teens balancing family duty and their own dreams. Easygoing and funny — parents like him, kids trust him."
+  },
+  {
+    "name": "Dr. Olivia Grant",
+    "gender": "female",
+    "ethnicity": "Black",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "self-harm",
+      "depression",
+      "trauma"
+    ],
+    "modalities": [
+      "DBT",
+      "TF-CBT"
+    ],
+    "personality": [
+      "steady",
+      "direct"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "BCBS",
+      "Cigna",
+      "United"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Olivia does serious work with teens in crisis — self-harm, deep depression, old wounds. Unflappable and honest; families lean on her steadiness."
+  },
+  {
+    "name": "Ethan Cole, LPC",
+    "gender": "male",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 8,
+    "agesServedMax": 14,
+    "specialties": [
+      "OCD",
+      "anxiety",
+      "tics"
+    ],
+    "modalities": [
+      "ERP",
+      "CBT"
+    ],
+    "personality": [
+      "playful",
+      "structured"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "Cigna",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Ethan treats OCD and tic disorders in the age group where they most often first appear. He turns exposure work into a game kids actually want to win."
+  },
+  {
+    "name": "Dr. Amara Diallo",
+    "gender": "female",
+    "ethnicity": "Senegalese American",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "faithBackground": "Muslim",
+    "agesServedMin": 5,
+    "agesServedMax": 12,
+    "specialties": [
+      "trauma",
+      "anxiety",
+      "adjustment"
+    ],
+    "modalities": [
+      "play therapy",
+      "TF-CBT"
+    ],
+    "personality": [
+      "gentle",
+      "warm"
+    ],
+    "sessionFormats": [
+      "in_person",
+      "video"
+    ],
+    "insurances": [
+      "BCBS",
+      "United",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Amara works with young kids who've lived through hard things — moves, losses, scary events. Gentle, unhurried, and fluent in the language of play."
+  },
+  {
+    "name": "Rachel Adler, LMFT",
+    "gender": "female",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": "Jewish",
+    "agesServedMin": 6,
+    "agesServedMax": 17,
+    "specialties": [
+      "family conflict",
+      "divorce adjustment",
+      "anxiety"
+    ],
+    "modalities": [
+      "family therapy",
+      "parent coaching"
+    ],
+    "personality": [
+      "warm",
+      "collaborative"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "Cigna",
+      "United"
+    ],
+    "availability": [
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Rachel helps families in transition fight less and talk more. She's especially good when parents disagree about therapy itself."
+  },
+  {
+    "name": "Dr. Victor Reyes",
+    "gender": "male",
+    "ethnicity": "Mexican American",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "faithBackground": "Catholic",
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "depression",
+      "substance use",
+      "anger"
+    ],
+    "modalities": [
+      "CBT",
+      "motivational interviewing"
+    ],
+    "personality": [
+      "direct",
+      "steady"
+    ],
+    "sessionFormats": [
+      "in_person",
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Victor grew up in the neighborhood he now serves. Teens who won't talk to anyone else talk to Victor — in English, Spanish, or both."
+  },
+  {
+    "name": "Chloe Bennett, LPCC",
+    "gender": "female",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 12,
+    "agesServedMax": 18,
+    "specialties": [
+      "anxiety",
+      "panic",
+      "social anxiety"
+    ],
+    "modalities": [
+      "CBT",
+      "exposure therapy"
+    ],
+    "personality": [
+      "warm",
+      "structured"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "BCBS",
+      "United",
+      "Kaiser"
+    ],
+    "availability": [
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Chloe specializes in the teens who can't order at a restaurant or raise a hand in class. Step by step, her kids get their worlds back."
+  },
+  {
+    "name": "Dr. James Whitfield",
+    "gender": "male",
+    "ethnicity": "Black",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": "Christian",
+    "agesServedMin": 6,
+    "agesServedMax": 12,
+    "specialties": [
+      "grief",
+      "behavioral issues",
+      "school stress"
+    ],
+    "modalities": [
+      "play therapy",
+      "CBT"
+    ],
+    "personality": [
+      "steady",
+      "playful"
+    ],
+    "sessionFormats": [
+      "in_person"
+    ],
+    "insurances": [
+      "Cigna",
+      "United"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "James works with grade-schoolers carrying grown-up-sized grief and stress. Equal parts steady presence and legendary Uno opponent."
+  },
+  {
+    "name": "Priya Nair, LMHC",
+    "gender": "female",
+    "ethnicity": "Indian American",
+    "languages": [
+      "English",
+      "Hindi",
+      "Malayalam"
+    ],
+    "faithBackground": "Hindu",
+    "agesServedMin": 12,
+    "agesServedMax": 18,
+    "specialties": [
+      "anxiety",
+      "perfectionism",
+      "family pressure"
+    ],
+    "modalities": [
+      "CBT",
+      "mindfulness"
+    ],
+    "personality": [
+      "gentle",
+      "collaborative"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Priya works with teens who feel like a report card with legs. She helps them find who they are beneath the achievements — without torching the family relationships."
+  },
+  {
+    "name": "Dr. Elena Volkov",
+    "gender": "female",
+    "ethnicity": "White",
+    "languages": [
+      "English",
+      "Russian"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 5,
+    "agesServedMax": 13,
+    "specialties": [
+      "anxiety",
+      "selective mutism",
+      "sleep issues"
+    ],
+    "modalities": [
+      "play therapy",
+      "CBT"
+    ],
+    "personality": [
+      "patient",
+      "warm"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "BCBS",
+      "Cigna"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Elena is at her best with anxious kids who whisper or don't speak at all. She never pushes; somehow they always end up talking."
+  },
+  {
+    "name": "Andre Johnson, LCSW",
+    "gender": "male",
+    "ethnicity": "Black",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "depression",
+      "anger",
+      "self-esteem"
+    ],
+    "modalities": [
+      "CBT",
+      "music therapy"
+    ],
+    "personality": [
+      "casual",
+      "warm"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "United",
+      "Kaiser"
+    ],
+    "availability": [
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Andre keeps a keyboard and a mic in his office, and some of his best sessions happen mid-beat. Teens who shut down in talk therapy open up here."
+  },
+  {
+    "name": "Dr. Grace Liu",
+    "gender": "female",
+    "ethnicity": "Taiwanese American",
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 12,
+    "agesServedMax": 18,
+    "specialties": [
+      "eating disorders",
+      "anxiety",
+      "perfectionism"
+    ],
+    "modalities": [
+      "CBT-E",
+      "ACT"
+    ],
+    "personality": [
+      "thoughtful",
+      "gentle"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "BCBS",
+      "Cigna",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Grace treats eating disorders and the perfectionism that often fuels them. Bilingual care with a deep understanding of food, family, and culture."
+  },
+  {
+    "name": "Nathan Price, LPC",
+    "gender": "male",
+    "ethnicity": "White",
+    "languages": [
+      "English",
+      "ASL"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 8,
+    "agesServedMax": 16,
+    "specialties": [
+      "anxiety",
+      "depression",
+      "ADHD"
+    ],
+    "modalities": [
+      "CBT",
+      "behavioral coaching"
+    ],
+    "personality": [
+      "patient",
+      "structured"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "Aetna",
+      "Cigna",
+      "United"
+    ],
+    "availability": [
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Nathan is fluent in ASL and one of few clinicians serving Deaf and hard-of-hearing kids directly — no interpreter in the middle. Hearing kids love him too."
+  },
+  {
+    "name": "Dr. Fatima Al-Sayed",
+    "gender": "female",
+    "ethnicity": "Iraqi American",
+    "languages": [
+      "English",
+      "Arabic"
+    ],
+    "faithBackground": "Muslim",
+    "agesServedMin": 4,
+    "agesServedMax": 12,
+    "specialties": [
+      "trauma",
+      "anxiety",
+      "adjustment"
+    ],
+    "modalities": [
+      "play therapy",
+      "EMDR"
+    ],
+    "personality": [
+      "gentle",
+      "steady"
+    ],
+    "sessionFormats": [
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "BCBS",
+      "United"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Fatima works with young kids whose families have been through upheaval — immigration, loss, instability. Quiet, grounding, and deeply trusted by the families she serves."
+  },
+  {
+    "name": "Zoe Ramirez, LMFT",
+    "gender": "nonbinary",
+    "ethnicity": "Puerto Rican",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 10,
+    "agesServedMax": 16,
+    "specialties": [
+      "LGBTQ+ identity",
+      "family conflict",
+      "anxiety"
+    ],
+    "modalities": [
+      "family therapy",
+      "affirming therapy"
+    ],
+    "personality": [
+      "warm",
+      "playful"
+    ],
+    "sessionFormats": [
+      "video"
+    ],
+    "insurances": [
+      "Cigna",
+      "United",
+      "Kaiser"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings",
+      "weekends"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Zoe supports queer and questioning kids on the younger side — and helps their families catch up with love. Bilingual, big-hearted, zero judgment."
+  },
+  {
+    "name": "Dr. Owen Mercer",
+    "gender": "male",
+    "ethnicity": "White",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 13,
+    "agesServedMax": 18,
+    "specialties": [
+      "trauma",
+      "PTSD",
+      "depression"
+    ],
+    "modalities": [
+      "EMDR",
+      "IFS"
+    ],
+    "personality": [
+      "calm",
+      "thoughtful"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "Aetna",
+      "Cigna"
+    ],
+    "availability": [
+      "weekday_afternoons",
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Owen does depth work with teens carrying things they've never said out loud. Slow, careful, and profoundly nonjudgmental."
+  },
+  {
+    "name": "Bianca Moore, LMSW",
+    "gender": "female",
+    "ethnicity": "Black",
+    "languages": [
+      "English"
+    ],
+    "faithBackground": null,
+    "agesServedMin": 5,
+    "agesServedMax": 11,
+    "specialties": [
+      "anxiety",
+      "bullying",
+      "self-esteem"
+    ],
+    "modalities": [
+      "play therapy",
+      "CBT"
+    ],
+    "personality": [
+      "warm",
+      "energetic"
+    ],
+    "sessionFormats": [
+      "video",
+      "in_person"
+    ],
+    "insurances": [
+      "BCBS",
+      "Kaiser",
+      "United"
+    ],
+    "availability": [
+      "evenings"
+    ],
+    "acceptingNewPatients": true,
+    "bio": "Bianca helps little kids who've started shrinking themselves — after teasing, bullying, or one bad year — stand tall again. Expect glitter."
+  }
+]
